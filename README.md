@@ -9,7 +9,7 @@ I am an analyst employed by a health care company. My manager has asked me to pr
 ## Dataset
 The dataset used in this analysis can be found [here](insurance.csv) or follow the instructions below to obtain it.
 
-## PART 1 Questions - [Jupyter](LINK)
+## PART 1 Questions - https://github.com/huydtrann/medical-cost-case-study/blob/d7ab11a0ffdc86f33d8d3cbc66c0308d81263d62/Part%201_Medical_Costs_Case_Study.ipynb
 - How is age related to medical costs?
 - How is number of children related to medical costs?
 - How is the number of people distributed by region?
