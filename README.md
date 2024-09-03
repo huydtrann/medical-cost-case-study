@@ -10,7 +10,7 @@ I am an analyst employed by a health care company. My manager has asked me to pr
 The dataset used in this analysis can be found [here](link-to-dataset-source) or follow the instructions below to obtain it.
 
 ## Tasks and Questions
-Bin the bmi column.
-How is the smoker status related to the charges?
-How are the charges related to the region?
-Which region has the highest obesity percentage? (Calculate obesity percentage within each region and compare.)
+- Bin the bmi column.
+- How is the smoker status related to the charges?
+- How are the charges related to the region?
+- Which region has the highest obesity percentage? (Calculate obesity percentage within each region and compare.)
