@@ -7,7 +7,7 @@ This project analyzes medical cost data to understand the factors influencing me
 I am an analyst employed by a health care company. My manager has asked me to produce a report that answers the following questions about medical insurance charges.
 
 ## Dataset
-The dataset used in this analysis can be found [here](link-to-dataset-source) or follow the instructions below to obtain it.
+The dataset used in this analysis can be found [here](insurance.csv) or follow the instructions below to obtain it.
 
 ## Tasks and Questions
 - Bin the bmi column.
