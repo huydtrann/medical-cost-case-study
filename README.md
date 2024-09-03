@@ -9,7 +9,14 @@ I am an analyst employed by a health care company. My manager has asked me to pr
 ## Dataset
 The dataset used in this analysis can be found [here](insurance.csv) or follow the instructions below to obtain it.
 
-## Tasks and Questions
+## PART 1 Questions - [Jupyter](LINK)
+- How is age related to medical costs?
+- How is number of children related to medical costs?
+- How is the number of people distributed by region?
+- How is the number of people distributed by age?
+- How are the charges distributed?
+
+## PART 2 Tasks and Questions - [Jupyter](LINK)
 - Bin the bmi column.
 - How is the smoker status related to the charges?
 - How are the charges related to the region?
