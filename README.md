@@ -16,7 +16,7 @@ The dataset used in this analysis can be found [here](insurance.csv) or follow t
 - How is the number of people distributed by age?
 - How are the charges distributed?
 
-## PART 2 Tasks and Questions - [Jupyter](LINK)
+## PART 2 Tasks and Questions - [Jupyter](Part 2_Medical Cost Case Study.ipynb)
 - Bin the bmi column.
 - How is the smoker status related to the charges?
 - How are the charges related to the region?
