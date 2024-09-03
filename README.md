@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes medical cost data to understand the factors influencing medical expenses using Python. Seaborn was utilized to create visualizations that aid in answering key questions related to the data.
 
+## Scenario
+I am an analyst employed by a health care company. My manager has asked me to produce a report that answers the following questions about medical insurance charges.
+
 ## Dataset
 The dataset used in this analysis can be found [here](link-to-dataset-source) or follow the instructions below to obtain it.
 
