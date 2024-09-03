@@ -7,7 +7,7 @@ This project analyzes medical cost data to understand the factors influencing me
 I am an analyst employed by a health care company. My manager has asked me to produce a report that answers the following questions about medical insurance charges.
 
 ## Dataset
-The dataset used in this analysis can be found [here](insurance.csv) or follow the instructions below to obtain it.
+The dataset used in this analysis can be found [here](insurance.csv).
 
 ## PART 1 Questions - [Part 1_Medical Cost Case Study.ipynb](https://github.com/huydtrann/medical-cost-case-study/blob/d7ab11a0ffdc86f33d8d3cbc66c0308d81263d62/Part%201_Medical_Costs_Case_Study.ipynb)
 - How is age related to medical costs?
